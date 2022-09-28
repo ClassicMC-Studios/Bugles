@@ -1,5 +1,5 @@
-import Card from './card.js';
-import Card2 from './card2.js';
+import Card from './cards/card.js';
+import Card2 from './cards/card2.js';
 import Head from './header.js';
 function App() {
   return (
