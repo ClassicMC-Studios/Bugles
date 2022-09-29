@@ -7,7 +7,7 @@ function Card(){
             <body className='w3-white'>A brass instrument that is commonly used for the military and boy scouts<br/>
             <img src={logo} alt="Bugle" width={90}/>
             </body>
-            <footer className="w3-white">Beta</footer>
+            <footer className="w3-white">Wikipedia</footer>
         </div>
     );
 };

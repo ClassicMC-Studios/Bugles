@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <Head/>
-      <a href="https://classicmc-studios.github.io"><Card/></a>
-      <a href="https://classicmc-studios.github.io"><Card2/></a>
+      <a href="https://en.wikipedia.org/wiki/Bugle"><Card/></a>
+      <a href="https://github.com/creativeDrawerStudios/eSharpBeta"><Card2/></a>
     </div>
   );
 }
