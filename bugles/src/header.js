@@ -2,8 +2,8 @@ import './w3.css';
 
 function Head(){
     return(
-        <div className='w3-container'>
-            <h1 className='w3-blue w3-margin-0'><b>Eastonpeida</b></h1>
+        <div className='w3-container w3-margin-0'>
+            <h1 className='w3-black w3-text-white'><b>Eastonpeida <em>a collection of stuff for Easton</em></b></h1>
         </div>
     );
 };
